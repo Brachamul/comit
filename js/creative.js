@@ -10,9 +10,12 @@
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
+        var $target = $($anchor.attr('href'))
         $('html, body').stop().animate({
-            scrollTop: ($($anchor.attr('href')).offset().top - 50)
+            scrollTop: ($target.offset().top - 50)
         }, 1250, 'easeInOutExpo');
+        $('.offer').removeClass('.active')
+        if ($target.hasClass('offer')) $target.addClass('active')
         event.preventDefault();
     });
 
