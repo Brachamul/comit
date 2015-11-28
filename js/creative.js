@@ -11,11 +11,23 @@
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         var $target = $($anchor.attr('href'))
-        $('html, body').stop().animate({
-            scrollTop: ($target.offset().top - 50)
-        }, 1250, 'easeInOutExpo');
+
+        if ($target.hasClass('offer')) {
+            $('#details-des-offres').slideDown()
+            $target.addClass('active').fadeIn(500, function(){
+                $('html, body').stop().animate({
+                    scrollTop: ($target.offset().top - 50)
+                }, 1250, 'easeInOutExpo');
+            })
+        } else {
+            $('html, body').stop().animate({
+                scrollTop: ($target.offset().top - 50)
+            }, 1250, 'easeInOutExpo');
+        }
+
         $('.offer').removeClass('.active')
-        if ($target.hasClass('offer')) $target.addClass('active')
+
+
         event.preventDefault();
     });
 

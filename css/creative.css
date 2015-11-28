@@ -45,12 +45,6 @@ h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-p {
-    margin-bottom: 20px;
-    font-size: 16px;
-    line-height: 1.5;
-}
-
 .bg-primary {
     background-color: #007744;
 }
@@ -474,9 +468,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
-
-.offer { max-height: 0; overflow: hidden; transition: max-height 1s; }
-.offer.active { max-height: 1200px; }
-
-.back-to-top { display: none; }
-.offer.active ~ .back-to-top { display: block; }
