@@ -15,12 +15,12 @@ Organisation de 3 évènements clés en main sur 1 an
 * Retour personnalisé à chaque résident sur le bénéfice de son action
 * Réalisation d’une vidéo pour chaque évènement, pour les résidents et le bailleur
 
-#### Sur le site en ligne :
+#### Sur notre site web :
 * Planning des évènements
 * Communication, actualités
 * Sondage en ligne
 * Compte-rendu vidéo des évènements 
-* + Fonctionnalité d’échange de services entre résidents
+* Fonctionnalité d’échange de services entre résidents
 
 #### Exemples d’évènements :
 * Mise en place d’une collecte de jouets pour une association locale
