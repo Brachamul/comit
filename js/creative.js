@@ -13,6 +13,7 @@
         var $target = $($anchor.attr('href'))
 
         if ($target.hasClass('offer')) {
+            $('.offer').hide()
             $('#details-des-offres').slideDown()
             $target.addClass('active').fadeIn(500, function(){
                 $('html, body').stop().animate({

@@ -1,1 +1,1 @@
-Le concept : créer l'opportunité pour vos résidents d’**agir concrètement et localement**, selon leurs disponibilités
+> Le concept : créer l'opportunité pour vos résidents d’**agir concrètement et localement**, selon leurs disponibilités

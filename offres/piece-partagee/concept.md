@@ -1,4 +1,1 @@
-Le concept : décorer les murs de votre résidence grâce à des photographies, selon vos besoins : 
-
-* **Prestation 1** : Nous proposons à vos résidents de choisir des photos pour embellir leur immeuble
-* **Prestation 2** : Nous réalisons une série de photo sur-mesure, dans le cadre d’une campagne de communication plus large, par exemple sur le "bien vivre ensemble"
+> Le concept : transformer un **espace non valorisé** (ancienne loge de concierge, grand local poubelles, cagibi, chambre de bonne…) en une pièce utilisable par les résidents. C'est un projet clé-en-main, participatif dès sa conception, et incluant les règles d’usage.
