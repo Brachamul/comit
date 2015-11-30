@@ -1,3 +1,8 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
-
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
+> Au plus près de chez soi des fleurs, légumes et aromates frais, que l’on a cultivés soi-même
+- Etre accompagnés à un projet de potager collectif / floraison, selon ses disponibilités :
+- Rencontrer ses voisins autrement, bénéficier d’un climat de voisinage plus convivial, personnel
+- Être formé et accompagné pour les actes les plus techniques : le jardinage à la portée de tous, les aides nécessaires, les autres expériences de potager et de floraison
+- Pratiquer - à la hauteur de ses disponibilités et de ses spécialités – à une activité relaxante au contact de la nature, en bas de chez soi : le jardinage
+- Disposer gratuitement de légumes, produits de manière écologique
+- Impliquer les enfants dans la connaissance de la nature et à la cueillette des aromates et des légumes
+- Améliorer son cadre de vie par des espaces entretenus et conçus par des paysagistes : intégrer la nature dans l’environnement de la résidence

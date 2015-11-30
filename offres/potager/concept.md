@@ -1,4 +1,17 @@
-Le concept : décorer les murs de votre résidence grâce à des photographies, selon vos besoins : 
+Nous proposons deux prestations non exclusives :
 
-* **Prestation 1** : Nous proposons à vos résidents de choisir des photos pour embellir leur immeuble
-* **Prestation 2** : Nous réalisons une série de photo sur-mesure, dans le cadre d’une campagne de communication plus large, par exemple sur le "bien vivre ensemble"
+<div class="col-xs-12 col-sm-6">
+
+	<h4> Prestation 1 :</h4>
+	
+	<blockquote>Créer un jardin participatif, adapté à l’espace disponible dans la résidence</blockquote>
+
+</div>
+
+<div class="col-xs-12 col-sm-6">
+
+	<h4>Prestation 2 :</h4>
+	
+	<blockquote>Améliorer le cadre de vie en fleurissant les parties communes de la résidence</blockquote>
+
+</div>

@@ -1,7 +1,19 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
+Prestations 1 et 2: créer un potager, et/ou un espace fleuri, participatifs et adaptés à l’espace disponible dans la résidence 
 
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
+#### En amont : 
+- Visite de la résidence avec notre partenaire potager urbain ou paysagiste
+- Conception de la solution : évaluation des contraintes techniques, création d'un concept sous forme de plan détaillé, conception du système technique d'arrosage, remise d’un devis
+- Préparation d’une communication avec le bailleur social à destination des résidents
+- Animation d’une réunion avec le partenaire potager urbain ou fleuriste pour présentation aux résidents du concept et échange sur le fonctionnement possible (entretien et récolte)
+- Réalisation d’une charte de fonctionnement du potager (qui a la charge de l’entretien, comment sont partagées les récoltes,…)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
+#### Réalisation :
+- Installation des éléments du système en terre ou en bacs
+- Semis et plantation
+- Inauguration du potager ou de l’espace fleuri : remise du calendrier de culture
 
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
+#### 3 options possibles en complément : 
+- 3 demi-journées de formation sur site aux volontaires de la résidence qui souhaitent cultiver le potager
+- Accompagnement à la création d’une association de résidents pour l’entretien du potager
+- Entretien partiel du potager 
+- Objets connectés pour suivre l'évolution du potager en ligne
