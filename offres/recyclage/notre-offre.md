@@ -1,7 +1,16 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
+#### Services :
+- Définition avec le bailleur social des actions de recyclage prioritaires à mettre en place dans la résidence : 
+- Recyclage permettant de financer des projets
+- Recyclage en faveur d’associations locales 
+- Mise en place de partenariat en fonction des actions prioritaires définies
+- Réalisation d’un kit de communication avec le bailleur social sur le dispositif mis en place
+- Activation du ramassage par le concierge une fois le bac plein pour les recyclages de lampes ou d’appareils électroniques
+- Organisation d’évènements de recyclage en partenariat avec des associations locales (3 évènements/an)
 
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
+Le recyclage spécialisé permet de créditer le compte de la résidence, via des partenariats avec les organismes collecteurs et sous réserve d’un volume minimal.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
-
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
+**Exemples :**
+- Le recyclage des piles
+- Le recycle des ampoules
+- Le recyclage des appareils électroniques (bouilloires, machines à laver, écrans, ...)
+- Le recyclage des lampes

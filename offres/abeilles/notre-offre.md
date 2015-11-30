@@ -1,7 +1,11 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
+#### Services
+- Visite de la résidence avec notre partenaire Apiculteur : préconisation au bailleur social d’un lieu d’implantation de la ruche et d’un modèle de ruche
+- Production d’un devis après étude légale, et technique
+- Préparation d’une communication avec le bailleur social à destination des résidents
+- Animation d'une réunion avec notre partenaire Apiculteur  et les résidents pour présentation du projet de ruche, fonctionnement et bénéfice pour la résidence
+- Installation de la ruche et d’une webcam filmant la ruche à laquelle les résidents peuvent se connecter
+- Intervention de l’apiculteur pour entretien des ruches et récolte du miel 
+- Mise en pot effectuée par l’apiculteur avec étiquetage à la charte graphique du bailleur et au nom de la résidence
+- Organisation de 2 évènements par an de distribution des pots de miel de la résidence
 
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel arcu et mi imperdiet sodales. Nunc neque ipsum, elementum in justo ac, commodo tincidunt orci. Vestibulum at sem quis lectus imperdiet vestibulum. Nunc ut lacus vitae mauris mollis gravida id vitae risus. In ac mauris et libero scelerisque faucibus vitae at ex. Vivamus diam nunc, semper id placerat vel, eleifend vel velit. Curabitur viverra felis vel magna imperdiet blandit. Vestibulum bibendum tellus nec diam iaculis, at tristique velit imperdiet. Duis nunc lectus, bibendum non purus id, iaculis blandit lorem. Duis massa sem, blandit non porttitor sed, tristique in felis. Nam in odio a enim viverra suscipit. Maecenas luctus gravida mauris, sit amet bibendum velit interdum ac.
-
-Sed lacinia erat sed erat ultrices, id consequat lacus tincidunt. Ut egestas, enim a ullamcorper accumsan, mi est condimentum orci, at porta urna augue in neque. Maecenas elementum lectus ut quam mattis finibus. Vivamus tincidunt dignissim justo ut dignissim. Donec vel tempor purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ac fermentum augue. Mauris nec imperdiet tellus. Phasellus vehicula est in lorem imperdiet scelerisque. Aliquam sodales purus sed arcu ultrices blandit.
+> 1 ruche de 40 000 abeilles produit environ 100 pots de 125 grammes par an

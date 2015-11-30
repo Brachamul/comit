@@ -1,4 +1,3 @@
-Le concept : décorer les murs de votre résidence grâce à des photographies, selon vos besoins : 
+> Devenez acteur de l'économie circulaire !
 
-* **Prestation 1** : Nous proposons à vos résidents de choisir des photos pour embellir leur immeuble
-* **Prestation 2** : Nous réalisons une série de photo sur-mesure, dans le cadre d’une campagne de communication plus large, par exemple sur le "bien vivre ensemble"
+Il s'agit de mettre en place un **recyclage complémentaire** à celui effectué par les collectivités locales, et le placer au cœur de la résidence. Le recyclage devient spécifique aux besoins de la résidence, et lui permet d’en retirer une valeur tangible. En effet, la valorisation permet de **financer des projets** dans la résidence : une sensibilisation au recyclage par exemple ?
