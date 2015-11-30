@@ -1,4 +1,5 @@
 > Au plus près de chez soi des fleurs, légumes et aromates frais, que l’on a cultivés soi-même
+
 - Etre accompagnés à un projet de potager collectif / floraison, selon ses disponibilités :
 - Rencontrer ses voisins autrement, bénéficier d’un climat de voisinage plus convivial, personnel
 - Être formé et accompagné pour les actes les plus techniques : le jardinage à la portée de tous, les aides nécessaires, les autres expériences de potager et de floraison
