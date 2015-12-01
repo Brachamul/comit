@@ -75,7 +75,7 @@
 						<a class="page-scroll" href="#valeurs">Nos Valeurs</a>
 					</li>
 					<li>
-						<a class="page-scroll" href="#offres">Nos Offres</a>
+						<a class="page-scroll" href="#offres-collectives">Nos Offres</a>
 					</li>
 <!--				<li>
 						<a class="page-scroll" href="#a-propos">À propos</a>
@@ -157,7 +157,7 @@
 		</div>
 	</section>
 
-	<section id="offres" class="bg-dark">
+	<section id="offres-collectives" class="bg-dark">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
@@ -265,37 +265,37 @@
 
 	</section>
 
-	<section id="details-des-offres">
+	<section id="detail-des-offres-collectives">
 
 		<div class="container clearfix">
 
-		<div id="photos" class="load-markdown offer">
+		<div id="photos" class="load-markdown offer collective">
 			<div class="row"><div class="col-xs-12"><h2>Les photos</h2></div></div>
 		</div>
 
-		<div id="piece-partagee" class="load-markdown offer">
+		<div id="piece-partagee" class="load-markdown offer collective">
 			<div class="row"><div class="col-xs-12"><h2>La pièce partagée</h2></div></div>
 		</div>
 
-		<div id="recyclage" class="load-markdown offer">
+		<div id="recyclage" class="load-markdown offer collective">
 			<div class="row"><div class="col-xs-12"><h2>Le recyclage</h2></div></div>
 		</div>
 
-		<div id="potager" class="load-markdown offer">
+		<div id="potager" class="load-markdown offer collective">
 			<div class="row"><div class="col-xs-12"><h2>Le potager et la floraison</h2></div></div>
 		</div>
 
-		<div id="journee-caritative" class="load-markdown offer">
+		<div id="journee-caritative" class="load-markdown offer collective">
 			<div class="row"><div class="col-xs-12"><h2>La journée caritative</h2></div></div>
 		</div>
 
-		<div id="abeilles" class="load-markdown offer">
+		<div id="abeilles" class="load-markdown offer collective">
 			<div class="row"><div class="col-xs-12"><h2>Les abeilles</h2></div></div>
 		</div>
 
 		<div class="back-to-top text-center">
 			<br>
-			<a href="#offres" class="btn btn-primary page-scroll"><i class="fa fa-arrow-up"></i> Consulter les autres offres</a>
+			<a href="#offres-collectives" class="btn btn-primary page-scroll"><i class="fa fa-arrow-up"></i> Consulter les autres offres</a>
 		</div>
 
 		</div>
@@ -303,7 +303,8 @@
 	</section>
 
 
-<!--<section id="offres-groupees">
+
+	<section id="offres-groupees" class="bg-dark">
 
 		<div class="container">
 			<div class="row">
@@ -318,8 +319,8 @@
 		<div class="container-fluid">
 			<div class="row no-gutter">
 				<div class="col-lg-4 col-sm-12">
-					<a href="#photos" class="portfolio-box page-scroll">
-						<img src="img/photos.jpg" class="img-responsive" alt="">
+					<a href="#panier-frais" class="portfolio-box page-scroll">
+						<img src="img/panier-frais.jpg" class="img-responsive" alt="">
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="offer-title">
@@ -333,8 +334,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-12">
-					<a href="#piece-partagee" class="portfolio-box page-scroll">
-						<img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+					<a href="#pedibus" class="portfolio-box page-scroll">
+						<img src="img/pedibus.jpg" class="img-responsive" alt="">
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="offer-title">
@@ -348,8 +349,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-12">
-					<a href="#recyclage" class="portfolio-box page-scroll">
-						<img src="img/recyclage.jpg" class="img-responsive" alt="">
+					<a href="#coach-sportif" class="portfolio-box page-scroll">
+						<img src="img/coach-sportif.jpg" class="img-responsive" alt="">
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
 								<div class="offer-title">
@@ -365,7 +366,32 @@
 			</div>
 		</div>
 
-	</section> -->
+	</section>
+
+	<section id="detail-des-offres-groupees">
+
+		<div class="container clearfix">
+
+		<div id="panier-frais" class="load-markdown offer groupee">
+			<div class="row"><div class="col-xs-12"><h2>Le panier frais</h2></div></div>
+		</div>
+
+		<div id="pedibus" class="load-markdown offer groupee">
+			<div class="row"><div class="col-xs-12"><h2>Le pédibus</h2></div></div>
+		</div>
+
+		<div id="coach-sportif" class="load-markdown offer groupee">
+			<div class="row"><div class="col-xs-12"><h2>Le coach sportif</h2></div></div>
+		</div>
+
+		<div class="back-to-top text-center">
+			<br>
+			<a href="#offres-groupees" class="btn btn-primary page-scroll"><i class="fa fa-arrow-up"></i> Consulter les autres offres</a>
+		</div>
+
+		</div>
+
+	</section>
 
 <!--<aside class="bg-dark">
 		<div class="container text-center">
@@ -481,8 +507,9 @@
 		.angr-portrait img { height: 200px; width: 100%; border-radius: 50%; position: absolute; top: 0; left: 0; }
 		.angr-portrait { padding-top: 80%; position: relative; }
 	
-		#offres{ padding-bottom: 0; }
-		#details-des-offres { display: none; min-height: 50em; }
+		#offres-groupees, #offres-collectives { padding-bottom: 0; }
+
+		#detail-des-offres-groupees, #detail-des-offres-collectives { display: none; min-height: 50em; }
 
 		.offer { display: none; }
 		
@@ -492,14 +519,17 @@
 		.portfolio-box .portfolio-box-caption { background: rgba(0,119,68,0); opacity: 1; }
 		.portfolio-box:hover .portfolio-box-caption { background: rgba(0,119,68,.9); }
 		.portfolio-box:active .portfolio-box-caption { background: rgba(0,119,68,.9); }
-		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content {  }
+		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content { transition: top 2s; }
+		.portfolio-box .portfolio-box-caption:hover .portfolio-box-caption-content { top: 45%; }
 		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .offer-title {
 			background-color: rgba(0,119,68,.8); padding: 3%; font-size: 1.4em; text-transform: uppercase;
 			font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 		}
 		.portfolio-box:hover .portfolio-box-caption .portfolio-box-caption-content .offer-title { background-color: rgba(0,119,68,0); }
-		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .offer-subtitle { transition: all 1.5s; padding: 0 10%; }
-		.portfolio-box:not(:hover) .portfolio-box-caption .portfolio-box-caption-content .offer-subtitle { color: transparent; transition: all .5s; }
+		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .offer-subtitle { transition: all 1.5s; padding: 0 10%; max-height: 100px;  }
+		.portfolio-box:not(:hover) .portfolio-box-caption .portfolio-box-caption-content .offer-subtitle { color: transparent; max-height: 0; overflow: hidden; }
+
+
 
 		.offer h2 {
 			font-size: 2.8em;

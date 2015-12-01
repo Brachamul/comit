@@ -1,0 +1,1 @@
+> Offrez à vos résidents la possibilité de pratiquer une activité sportive collective, encadrée par un coach

@@ -14,7 +14,11 @@
 
         if ($target.hasClass('offer')) {
             $('.offer').hide()
-            $('#details-des-offres').slideDown()
+            if ($target.hasClass('collective')) {
+                $('#detail-des-offres-collectives').slideDown()
+                console.log('offre collective!')
+            }
+            if ($target.hasClass('groupee')) $('#detail-des-offres-groupees').slideDown()
             $target.addClass('active').fadeIn(500, function(){
                 $('html, body').stop().animate({
                     scrollTop: ($target.offset().top - 50)
