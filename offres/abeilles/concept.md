@@ -1,0 +1,1 @@
+> Impliquer les résidents dans un projet commun, autour de la sauvegarde des abeilles et de la production du « **miel de la résidence** »

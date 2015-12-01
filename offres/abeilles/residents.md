@@ -1,0 +1,5 @@
+- Découvrir l’univers des abeilles et bénéficier de la production de miel 
+- Valoriser la résidence autour d’un projet commun : l’apiculture urbaine
+- Sensibiliser les plus jeunes autour du rôle des abeilles, de l’indicateur qu’elles représentent pour la santé de la planète, mais également de la ville
+- Profiter de la dégustation et de la distribution du miel
+- Valoriser l'action par une éventuelle vente des pots de miel et des essaims arrivés à maturité

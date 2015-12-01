@@ -3,280 +3,586 @@
 
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+	<title>Comit, habitons l'habitat !</title>
 
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+	<!-- Bootstrap Core CSS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
 
-    <!-- Custom Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+	<!-- Custom Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-    <!-- Plugin CSS -->
-    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+	<!-- Plugin CSS -->
+	<link rel="stylesheet" href="css/animate.min.css" type="text/css">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/creative.css" type="text/css">
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/creative.css" type="text/css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<!-- HeatMap -->
+	<script type="text/javascript">
+		(function() {
+		var hm = document.createElement('script'); hm.type ='text/javascript'; hm.async = true;
+		hm.src = ('++u-heatmap-it+log-js').replace(/[+]/g,'/').replace(/-/g,'.');
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+
+	<!-- GoogleAnalytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-70829908-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
 
 </head>
 
 <body id="page-top">
 
-    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
-            </div>
+	<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand page-scroll" href="#page-top">ComIt</a>
+			</div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#services">Services</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a class="page-scroll" href="#valeurs">Nos Valeurs</a>
+					</li>
+					<li>
+						<a class="page-scroll" href="#offres-collectives">Nos Offres</a>
+					</li>
+<!--				<li>
+						<a class="page-scroll" href="#a-propos">À propos</a>
+					</li>	-->
+					<li>
+						<a class="page-scroll" href="#contact">Contact&nbsp;&nbsp;</a>
+					</li>
+				</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container-fluid -->
+	</nav>
 
-    <header>
-        <div class="header-content">
-            <div class="header-content-inner">
-                <h1>Your Favorite Source of Free Bootstrap Themes</h1>
-                <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
-            </div>
-        </div>
-    </header>
+	<header>
+		<div class="header-content">
+			<div class="header-content-inner">
+				<h1>Habitons l'habitat !</h1>
+				<hr>
+				<p style="font-size: 1.3em;">Vivre ensemble, ça ne s'improvise pas ! Nos services vous permettent d'associer vos résidents à l'amélioration de leur habitat, dans une démarche favorisant le lien social.</p>
+<!--			<a href="#about" class="btn btn-primary btn-xl page-scroll">Nous rejoindre</a>-->
+			</div>
+		</div>
+	</header>
 
-    <section class="bg-primary" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
-                    <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a href="#" class="btn btn-default btn-xl">Get Started!</a>
-                </div>
-            </div>
-        </div>
-    </section>
+<!--<section class="bg-primary" id="rejoindre">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 text-center">
+					<h2 class="section-heading">Vivre ensemble, ça ne s'improvise pas !</h2>
+					<hr class="light">
+					<p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+					<a href="#" class="btn btn-default btn-xl">Nous rejoindre</a>
+				</div>
+			</div>
+		</div>
+	</section>-->
 
-    <section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
-                    <hr class="primary">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
-                        <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+	<section id="valeurs">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<h2 class="section-heading">Nos valeurs</h2>
+					<hr class="primary">
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<i class="fa fa-4x fa-building wow bounceIn text-primary"></i>
+						<h3>L'habitat participatif</h3>
+						<p class="text-muted">Engageons vos résidents pour<br/>créer une valeur collective</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<i class="fa fa-4x fa-cube wow bounceIn text-primary" data-wow-delay=".2s"></i>
+						<h3>La simplicité</h3>
+						<p class="text-muted">Apportons de la simplicité pour répondre à vos enjeux d'innovation</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<i class="fa fa-4x fa-map-signs wow bounceIn text-primary" data-wow-delay=".3s"></i>
+						<h3>La proximité</h3>
+						<p class="text-muted">Ancrons votre habitat dans l'économie locale !</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<i class="fa fa-4x fa-pagelines wow bounceIn text-primary" data-wow-delay=".1s"></i>
+						<h3>L'environnement</h3>
+						<p class="text-muted">Plaçons la nature au coeur de la résidence.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
-    <section class="no-padding" id="portfolio">
-        <div class="container-fluid">
-            <div class="row no-gutter">
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="https://unsplash.it/650/350?image=535" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="https://unsplash.it/650/350?image=534" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="https://unsplash.it/650/350?image=532" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="https://unsplash.it/650/350?image=533" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="https://unsplash.it/650/350?image=531" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="https://unsplash.it/650/350?image=625" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+	<section id="offres-collectives" class="bg-dark">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<h2 class="section-heading">Nos offres collectives</h2>
+					<hr class="primary">
+					<br>
+				</div>
+			</div>
+		</div>
 
-    <aside class="bg-dark">
-        <div class="container text-center">
-            <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="#" class="btn btn-default btn-xl wow tada">Download Now!</a>
-            </div>
-        </div>
-    </aside>
+		<div class="container-fluid">
+			<div class="row no-gutter">
+				<div class="col-lg-4 col-sm-6">
+					<a href="#photos" class="portfolio-box page-scroll">
+						<img src="img/photos.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Les photos
+								</div>
+								<div class="offer-subtitle text-faded">
+									Donner vie aux murs de la résidence
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<a href="#piece-partagee" class="portfolio-box page-scroll">
+						<img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									La pièce partagée
+								</div>
+								<div class="offer-subtitle text-faded">
+									Valoriser un espace et le rendre participatif
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<a href="#recyclage" class="portfolio-box page-scroll">
+						<img src="img/recyclage.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Le recyclage
+								</div>
+								<div class="offer-subtitle text-faded">
+									Devenez acteur de l'économie circulaire !
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<a href="#potager" class="portfolio-box page-scroll">
+						<img src="img/potager.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Le potager et la floraison
+								</div>
+								<div class="offer-subtitle text-faded">
+									Replacer la nature au coeur de la résidence
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<a href="#journee-caritative" class="portfolio-box page-scroll">
+						<img src="img/journee-caritative.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									La journée caritative
+								</div>
+								<div class="offer-subtitle text-faded">
+									Faites la différence, près de chez vous!
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<a href="#abeilles" class="portfolio-box page-scroll">
+						<img src="img/abeilles.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Les abeilles
+								</div>
+								<div class="offer-subtitle text-faded">
+									Agir pour l'écosystème local en recréant du lien social
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 
-    <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Let's Get In Touch!</h2>
-                    <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
-                </div>
-                <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
-                    <p>123-456-6789</p>
-                </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
-                </div>
-            </div>
-        </div>
-    </section>
+	</section>
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+	<section id="detail-des-offres-collectives">
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+		<div class="container clearfix">
 
-    <!-- Plugin JavaScript -->
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/jquery.fittext.js"></script>
-    <script src="js/wow.min.js"></script>
+		<div id="photos" class="load-markdown offer collective">
+			<div class="row"><div class="col-xs-12"><h2>Les photos</h2></div></div>
+		</div>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="js/creative.js"></script>
+		<div id="piece-partagee" class="load-markdown offer collective">
+			<div class="row"><div class="col-xs-12"><h2>La pièce partagée</h2></div></div>
+		</div>
+
+		<div id="recyclage" class="load-markdown offer collective">
+			<div class="row"><div class="col-xs-12"><h2>Le recyclage</h2></div></div>
+		</div>
+
+		<div id="potager" class="load-markdown offer collective">
+			<div class="row"><div class="col-xs-12"><h2>Le potager et la floraison</h2></div></div>
+		</div>
+
+		<div id="journee-caritative" class="load-markdown offer collective">
+			<div class="row"><div class="col-xs-12"><h2>La journée caritative</h2></div></div>
+		</div>
+
+		<div id="abeilles" class="load-markdown offer collective">
+			<div class="row"><div class="col-xs-12"><h2>Les abeilles</h2></div></div>
+		</div>
+
+		<div class="back-to-top text-center">
+			<br>
+			<a href="#offres-collectives" class="btn btn-primary page-scroll"><i class="fa fa-arrow-up"></i> Consulter les autres offres</a>
+		</div>
+
+		</div>
+
+	</section>
+
+
+
+	<section id="offres-groupees" class="bg-dark">
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<h2 class="section-heading">Nos offres groupées</h2>
+					<p>Activez ces offres dans votre résidence pour pemettre à vos résidents de simplifier leur quotidien !</p>
+					<hr class="primary">
+				</div>
+			</div>
+		</div>
+	
+		<div class="container-fluid">
+			<div class="row no-gutter">
+				<div class="col-lg-4 col-sm-12">
+					<a href="#panier-frais" class="portfolio-box page-scroll">
+						<img src="img/panier-frais.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Le Panier Frais
+								</div>
+								<div class="offer-subtitle text-faded">
+									Commander, chaque semaine, des paniers frais composés sur mesure, livrés à domicile à tarifs préférentiels
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-12">
+					<a href="#pedibus" class="portfolio-box page-scroll">
+						<img src="img/pedibus.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Le Pédibus
+								</div>
+								<div class="offer-subtitle text-faded">
+									Bénéficier d'un service de ramassage scolaire sécurisé, à pied et dès 3 ans, pour simplifier son quotidien
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-sm-12">
+					<a href="#coach-sportif" class="portfolio-box page-scroll">
+						<img src="img/coach-sportif.jpg" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-content">
+								<div class="offer-title">
+									Le coach sportif
+								</div>
+								<div class="offer-subtitle text-faded">
+									Faire appel à un coach sportif à domicile, à tarif négocié
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+	<section id="detail-des-offres-groupees">
+
+		<div class="container clearfix">
+
+		<div id="panier-frais" class="load-markdown offer groupee">
+			<div class="row"><div class="col-xs-12"><h2>Le panier frais</h2></div></div>
+		</div>
+
+		<div id="pedibus" class="load-markdown offer groupee">
+			<div class="row"><div class="col-xs-12"><h2>Le pédibus</h2></div></div>
+		</div>
+
+		<div id="coach-sportif" class="load-markdown offer groupee">
+			<div class="row"><div class="col-xs-12"><h2>Le coach sportif</h2></div></div>
+		</div>
+
+		<div class="back-to-top text-center">
+			<br>
+			<a href="#offres-groupees" class="btn btn-primary page-scroll"><i class="fa fa-arrow-up"></i> Consulter les autres offres</a>
+		</div>
+
+		</div>
+
+	</section>
+
+<!--<aside class="bg-dark">
+		<div class="container text-center">
+			<div class="call-to-action">
+				<h2>Prêts à lancer votre premier projet d'habitat participatif ?</h2>
+				<a href="#" class="btn btn-default btn-xl wow tada">Nous rejoindre</a>
+			</div>
+		</div>
+
+		"Le Collectif" / "Le groupé"
+
+		Prestations groupées : 
+
+	</aside>-->
+
+<!--<section id="a-propos">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<h2 class="section-heading">L'équipe et son projet</h2>
+					<hr class="primary">
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<div class="angr-portrait">
+						<img class="wow bounceIn" src="http://assets3.thrillist.com/v1/image/1299823/size/tl-horizontal_main/7-weird-stock-images-of-people-struggling-with-basic-cooking"></div>
+						<h3>Arnaud</h3>
+						<p class="text-muted">Our templates are updated regularly so they don't break.</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<div class="angr-portrait">
+						<img class="wow bounceIn" src="http://static1.squarespace.com/static/52188753e4b03a3ebe268bb8/t/5606b372e4b09e2b0337d70b/1443279732221/" data-wow-delay=".2s"></div>
+						<h3>Caroline</h3>
+						<p class="text-muted">We update dependencies to keep things fresh.</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<div class="angr-portrait">
+						<img class="wow bounceIn" src="http://vikings.history.co.uk/wp-content/uploads/2013/09/King-Aelle.jpg" data-wow-delay=".3s">
+						<h3>Antonin</h3></div>
+						<p class="text-muted">You have to make your websites with love these days!</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box">
+						<div class="angr-portrait">
+						<img class="wow bounceIn" src="http://cdn.v-harness.com/wp-content/uploads/2015/03/tree.png" data-wow-delay=".1s">
+						<h3>L'environnement</h3></div>
+						<p class="text-muted">You can use this theme as is, or you can make changes!</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>-->
+
+<!-- Panier Frais / Coach Sportif / Pédibus -->
+
+	<section id="contact" class="bg-dark">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 text-center">
+					<h2 class="section-heading">Parlons-en !</h2>
+					<hr class="primary">
+					<p>Nous sommes là pour vous aider !</p>
+				</div>
+				<div class="col-lg-4 col-lg-offset-2 text-center">
+					<i class="fa fa-phone fa-3x wow bounceIn"></i>
+					<p><a style="color: white" href="tel:+33681500011">06 81 50 00 11</a></p>
+				</div>
+				<div class="col-lg-4 text-center">
+					<i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+					<p><a style="color: white" href="mailto:contact@comit-habitat.fr?subject=[COMIT]">contact@comit-habitat.fr</a></p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!--aside class="bg-dark" id="footer">
+		<div class="container text-center">
+			<div class="call-to-action">
+				<h2>Pied de page</h2>
+				<a href="#" class="btn btn-default btn-xl wow tada">Nous rejoindre</a>
+			</div>
+		</div>
+	</aside>-->
+
+	<!-- jQuery -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.min.js"></script>
+
+	<!-- Plugin JavaScript -->
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/jquery.fittext.js"></script>
+	<script src="js/wow.min.js"></script>
+
+	<!-- Custom Theme JavaScript -->
+	<script src="js/creative.js"></script>
+
+	<style>
+
+		header .header-content .header-content-inner { text-shadow: 0 0 3em rgba(0,0,0,.85); }
+		header .header-content .header-content-inner p { color: rgba(255,255,255,0.95); text-shadow: 1px 1px 0 black; }
+
+		.angr-portrait img { height: 200px; width: 100%; border-radius: 50%; position: absolute; top: 0; left: 0; }
+		.angr-portrait { padding-top: 80%; position: relative; }
+	
+		#offres-groupees, #offres-collectives { padding-bottom: 0; }
+
+		#detail-des-offres-groupees, #detail-des-offres-collectives { display: none; min-height: 50em; }
+
+		.offer { display: none; }
+		
+		.back-to-top { display: none; }
+		.offer.active ~ .back-to-top { display: block; }
+
+		.portfolio-box .portfolio-box-caption { background: rgba(0,119,68,0); opacity: 1; }
+		.portfolio-box:hover .portfolio-box-caption { background: rgba(0,119,68,.9); }
+		.portfolio-box:active .portfolio-box-caption { background: rgba(0,119,68,.9); }
+		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content { transition: top 2s; }
+		.portfolio-box .portfolio-box-caption:hover .portfolio-box-caption-content { top: 45%; }
+		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .offer-title {
+			background-color: rgba(0,119,68,.8); padding: 3%; font-size: 1.4em; text-transform: uppercase;
+			font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+		}
+		.portfolio-box:hover .portfolio-box-caption .portfolio-box-caption-content .offer-title { background-color: rgba(0,119,68,0); }
+		.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .offer-subtitle { transition: all 1.5s; padding: 0 10%; max-height: 100px;  }
+		.portfolio-box:not(:hover) .portfolio-box-caption .portfolio-box-caption-content .offer-subtitle { color: transparent; max-height: 0; overflow: hidden; }
+
+
+
+		.offer h2 {
+			font-size: 2.8em;
+			text-align: center;
+			padding: .5em;
+		}
+
+		.offer p, .offer li { line-height: 1.5; font-size: 1.15em; }
+		.offer li li { font-size: .85em; }
+		.offer li { margin-bottom: .35em; }
+		.offer h3 { text-transform: uppercase; border-bottom: 1px dashed #007744; padding-bottom: .5em; }
+		.offer h3:before { content: "\f0a9 \0020"; color: #007744; font-family: FontAwesome; font-size: 1.2em; position: relative; bottom: -0.06em; }
+
+		.offer h2, .offer h3 {
+			border-bottom: 1px dashed #007744;
+			margin-bottom: .5em;
+		}
+
+		.offer strong, .offer h4 { color: #007744; line-height: 1.3; }
+
+		.clearfix:after { content: ""; display: table; clear: both; }
+
+	</style>
+
+	<!-- Showdown Markdown -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.3.0/showdown.min.js"></script>
+	
+	<!-- Fetch the content of offers from md files in /offres -->
+	<script>		
+	
+		var markdown = new showdown.Converter()
+		
+		$('.load-markdown').each(function(){
+		
+			var $offer = $(this)
+			var id = $(this).attr('id')
+		
+			$.ajax({ url: 'offres/stucture.html' }).done(function(structure) {
+		
+				$offer.append(structure) // adds the offer blocks to each offer
+			
+				$offer.find('.offer-block').each(function(){ // fetch the content of each block
+					var blockName = $(this).attr('data-offer')
+					$.ajax({ url: 'offres/' + id + '/' + blockName + '.md' }).done(function(response) {
+						$('#' + id + ' [data-offer="' + blockName + '"] .offer-content').html(markdown.makeHtml(response))
+					});
+				})
+		
+			});
+		
+		})
+	
+	</script>
 
 </body>
 

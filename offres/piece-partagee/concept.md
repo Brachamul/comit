@@ -1,0 +1,1 @@
+> Le concept : transformer un **espace non valorisé** (ancienne loge de concierge, grand local poubelles, cagibi, chambre de bonne…) en une pièce utilisable par les résidents. C'est un projet clé-en-main, participatif dès sa conception, et incluant les règles d’usage.

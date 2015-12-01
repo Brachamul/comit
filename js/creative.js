@@ -10,9 +10,29 @@
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: ($($anchor.attr('href')).offset().top - 50)
-        }, 1250, 'easeInOutExpo');
+        var $target = $($anchor.attr('href'))
+
+        if ($target.hasClass('offer')) {
+            $('.offer').hide()
+            if ($target.hasClass('collective')) {
+                $('#detail-des-offres-collectives').slideDown()
+                console.log('offre collective!')
+            }
+            if ($target.hasClass('groupee')) $('#detail-des-offres-groupees').slideDown()
+            $target.addClass('active').fadeIn(500, function(){
+                $('html, body').stop().animate({
+                    scrollTop: ($target.offset().top - 50)
+                }, 1250, 'easeInOutExpo');
+            })
+        } else {
+            $('html, body').stop().animate({
+                scrollTop: ($target.offset().top - 50)
+            }, 1250, 'easeInOutExpo');
+        }
+
+        $('.offer').removeClass('.active')
+
+
         event.preventDefault();
     });
 
