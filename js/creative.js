@@ -14,11 +14,9 @@
 
         if ($target.hasClass('offer')) {
             $('.offer').hide()
-            if ($target.hasClass('collective')) {
-                $('#detail-des-offres-collectives').slideDown()
-                console.log('offre collective!')
-            }
-            if ($target.hasClass('groupee')) $('#detail-des-offres-groupees').slideDown()
+            if ($target.hasClass('familiale')) $('#detail-des-offres-familiales').slideDown()
+            if ($target.hasClass('engagement')) $('#detail-des-offres-engagement').slideDown()
+            if ($target.hasClass('culturelle')) $('#detail-des-offres-culturelles').slideDown()
             $target.addClass('active').fadeIn(500, function(){
                 $('html, body').stop().animate({
                     scrollTop: ($target.offset().top - 50)
