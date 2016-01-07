@@ -1,4 +1,6 @@
-- Trouver du sens à recycler : en bas de chez soi, selon mes besoins et sans aller dans des centres de tri
-- Savoir enfin ce qui est fait des objets recyclés : vidéos suivants le parcours de recyclage 
-- Grace au recyclage, bénéficier d’un cadre de vie plus agréable, par le financement d’actions d’aménagement : rémunération de l’action de recycler
-- Faire bénéficier son proche voisinage du recyclage de l’immeuble : en mettant l’accès aux containers de recyclage à disposition d’associations : livres scolaires, livres pour la bibliothèque de quartier, vêtements et jouets d’enfants
+- Des évènements culturels inattendus et enrichissants
+- Découvrir une œuvre, un style, une époque,
+- Rencontrer les artistes en marge de l’évènement, 
+- Profiter d’un évènement culturel gratuit, en bas de chez soi, ouvert à toute la résidence
+- Participer à un évènement qui rassemble toutes les générations de la résidence de 7 à 77 ans : rencontrer ses voisins lors d’un moment particulier, hors du quotidien
+- Changer de regard sur son lieu de résidence et le redécouvrir sous un nouveau jour

@@ -1,16 +1,13 @@
 #### Services :
-- Définition avec le bailleur social des actions de recyclage prioritaires à mettre en place dans la résidence : 
-- Recyclage permettant de financer des projets
-- Recyclage en faveur d’associations locales 
-- Mise en place de partenariat en fonction des actions prioritaires définies
-- Réalisation d’un kit de communication avec le bailleur social sur le dispositif mis en place
-- Activation du ramassage par le concierge une fois le bac plein pour les recyclages de lampes ou d’appareils électroniques
-- Organisation d’évènements de recyclage en partenariat avec des associations locales (3 évènements/an)
+- Préparation des évènements en partenariat avec le bailleur :  logistique, assurance, communication
+- Téléchargement de l’appli 
+- Vote en ligne pour choisir des thématiques musicales
+- Mise à l’agenda, alerte de rappel et campagnes SMS
+- Possibilité de convier  à l’évènement les associations locales de musique
+- Partage des réalisations des autres résidences sur la plate-forme, vote et commentaires
+- Réalisation d’une vidéo des concerts mise à disposition du bailleur et des résidents
+- Sondage de satisfaction
 
-Le recyclage spécialisé permet de créditer le compte de la résidence, via des partenariats avec les organismes collecteurs et sous réserve d’un volume minimal.
 
-**Exemples :**
-- Le recyclage des piles
-- Le recycle des ampoules
-- Le recyclage des appareils électroniques (bouilloires, machines à laver, écrans, ...)
-- Le recyclage des lampes
+**Exemples de concerts :**
+- classique, jazz, musique du monde…

@@ -1,4 +1,4 @@
-- Faire percevoir, concrètement les bénéfices du recyclage aux résidents et piloter concrètement ces actions
-- Rendre le recyclage ludique 
-- Générer une nouvelle source de financement aux améliorations du cadre de vie
-- Renforcer les liens avec les associations locales, tout en les faisant bénéficier des actions de recyclage
+- Changer l’image du bailleur social auprès des résidents et plus globalement dans l’agglomération : ComiT réalise la couverture média des évènements et propose au bailleur une communication autour des évènements
+- Concevoir un évènement culturel comme vecteur de cohésion et de communication
+- Proposer aux résidents un moment privilégié, collectif, hors de leur quotidien
+- Proposer une série de concerts au sein de plusieurs résidences du même bailleur : festival
