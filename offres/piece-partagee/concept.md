@@ -1,1 +1,0 @@
-> Le concept : transformer un **espace collectif non valorisé** (ancienne loge de concierge, combles, cagibi, chambre de bonne…) en une pièce utilisable par les résidents.
