@@ -1,4 +1,5 @@
-- Faire percevoir, concrètement les bénéfices du recyclage aux résidents et piloter concrètement ces actions
-- Rendre le recyclage ludique 
-- Générer une nouvelle source de financement aux améliorations du cadre de vie
-- Renforcer les liens avec les associations locales, tout en les faisant bénéficier des actions de recyclage
+- Permettre à ses résidents d’accéder à un service innovant, dédié aux enfants
+- Participer concrètement à l’amélioration de la qualité de vie de vos résidents
+- Renforcer le lien entre les enfants de la résidence
+- Hausser le standing de la résidence
+- Faite du logement social, un atout pour vos résidents

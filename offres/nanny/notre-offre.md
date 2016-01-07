@@ -1,16 +1,21 @@
 #### Services :
-- Définition avec le bailleur social des actions de recyclage prioritaires à mettre en place dans la résidence : 
-- Recyclage permettant de financer des projets
-- Recyclage en faveur d’associations locales 
-- Mise en place de partenariat en fonction des actions prioritaires définies
-- Réalisation d’un kit de communication avec le bailleur social sur le dispositif mis en place
-- Activation du ramassage par le concierge une fois le bac plein pour les recyclages de lampes ou d’appareils électroniques
-- Organisation d’évènements de recyclage en partenariat avec des associations locales (3 évènements/an)
+- Téléchargement de l’appli « Saturday @ home » 
+- En collaboration avec le bailleur social,  réalisation d’un kit de communication sur cette prestation, à destination des parents et enfants
+- Animation d'une réunion pour les résidents avec présentation du fonctionnement :
+- Qualification du personnel Comit,
+- Engagement annuel pour les parents,
+- Assurance des enfants pendant la garde,
+- Créneau du mercredi / samedi après-midi 
+- Signature par les parents d’une charte de l’animation dans la résidence (avec clauses d’exclusion)
+- Financement de l’opération par le bailleur les 6 premiers mois, puis subvention si une commande groupée est souhaitée
 
-Le recyclage spécialisé permet de créditer le compte de la résidence, via des partenariats avec les organismes collecteurs et sous réserve d’un volume minimal.
 
-**Exemples :**
-- Le recyclage des piles
-- Le recycle des ampoules
-- Le recyclage des appareils électroniques (bouilloires, machines à laver, écrans, ...)
-- Le recyclage des lampes
+
+
+
+**Sur le site en ligne:**
+- Programme en ligne, rappel des ateliers
+- Web Cam sur les ateliers
+- Mise en ligne occasionnelle de reportages photo 
+- Plateforme ouverte permettant d’accueillir des applications éducatives issues d’autres sources (partenaires, développements « maison »…)
+- Suivi pédagogique de l’éveil linguistique (évaluation et reporting trimestriel aux parents…) 

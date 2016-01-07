@@ -1,4 +1,4 @@
-- Trouver du sens à recycler : en bas de chez soi, selon mes besoins et sans aller dans des centres de tri
-- Savoir enfin ce qui est fait des objets recyclés : vidéos suivants le parcours de recyclage 
-- Grace au recyclage, bénéficier d’un cadre de vie plus agréable, par le financement d’actions d’aménagement : rémunération de l’action de recycler
-- Faire bénéficier son proche voisinage du recyclage de l’immeuble : en mettant l’accès aux containers de recyclage à disposition d’associations : livres scolaires, livres pour la bibliothèque de quartier, vêtements et jouets d’enfants
+- Se simplifier le quotidien en toute confiance : confier son enfant à une animatrice anglophone expérimentée 
+- Se simplifier le quotidien de manière flexible : le mercredi et le samedi après midi, confiez nous vos enfants, et libérez vous du temps
+- L’anglais au quotidien : faites grandir votre enfant dans une résidence anglophone
+- Donner un coup d’avance à vos enfants, avant l’entrée au collège

@@ -1,3 +1,3 @@
-> Devenez acteur de l'économie circulaire !
 
-Il s'agit de mettre en place un **recyclage complémentaire** à celui effectué par les collectivités locales, et le placer au cœur de la résidence. Le recyclage devient spécifique aux besoins de la résidence, et lui permet d’en retirer une valeur tangible. En effet, la valorisation permet de **financer des projets** dans la résidence : une sensibilisation au recyclage par exemple ?
+Proposer aux enfants de l’immeuble - de 5 à 10 ans
+ un éveil linguistique à l’anglais, réalisé par des nounous anglophones 
